@@ -1,0 +1,502 @@
+[
+    {
+        "customer_id": 1,
+        "purchase_count": 16,
+        "avg_purchase_value": 138
+    },
+    {
+        "customer_id": 2,
+        "purchase_count": 10,
+        "avg_purchase_value": 858
+    },
+    {
+        "customer_id": 3,
+        "purchase_count": 3,
+        "avg_purchase_value": 917
+    },
+    {
+        "customer_id": 4,
+        "purchase_count": 13,
+        "avg_purchase_value": 927
+    },
+    {
+        "customer_id": 5,
+        "purchase_count": 7,
+        "avg_purchase_value": 924
+    },
+    {
+        "customer_id": 6,
+        "purchase_count": 4,
+        "avg_purchase_value": 784
+    },
+    {
+        "customer_id": 7,
+        "purchase_count": 1,
+        "avg_purchase_value": 875
+    },
+    {
+        "customer_id": 8,
+        "purchase_count": 14,
+        "avg_purchase_value": 499
+    },
+    {
+        "customer_id": 9,
+        "purchase_count": 14,
+        "avg_purchase_value": 982
+    },
+    {
+        "customer_id": 10,
+        "purchase_count": 15,
+        "avg_purchase_value": 191
+    },
+    {
+        "customer_id": 11,
+        "purchase_count": 2,
+        "avg_purchase_value": 933
+    },
+    {
+        "customer_id": 12,
+        "purchase_count": 19,
+        "avg_purchase_value": 764
+    },
+    {
+        "customer_id": 13,
+        "purchase_count": 17,
+        "avg_purchase_value": 791
+    },
+    {
+        "customer_id": 14,
+        "purchase_count": 10,
+        "avg_purchase_value": 937
+    },
+    {
+        "customer_id": 15,
+        "purchase_count": 15,
+        "avg_purchase_value": 153
+    },
+    {
+        "customer_id": 16,
+        "purchase_count": 11,
+        "avg_purchase_value": 543
+    },
+    {
+        "customer_id": 17,
+        "purchase_count": 5,
+        "avg_purchase_value": 363
+    },
+    {
+        "customer_id": 18,
+        "purchase_count": 12,
+        "avg_purchase_value": 719
+    },
+    {
+        "customer_id": 19,
+        "purchase_count": 5,
+        "avg_purchase_value": 202
+    },
+    {
+        "customer_id": 20,
+        "purchase_count": 4,
+        "avg_purchase_value": 873
+    },
+    {
+        "customer_id": 21,
+        "purchase_count": 13,
+        "avg_purchase_value": 983
+    },
+    {
+        "customer_id": 22,
+        "purchase_count": 15,
+        "avg_purchase_value": 966
+    },
+    {
+        "customer_id": 23,
+        "purchase_count": 8,
+        "avg_purchase_value": 919
+    },
+    {
+        "customer_id": 24,
+        "purchase_count": 16,
+        "avg_purchase_value": 368
+    },
+    {
+        "customer_id": 25,
+        "purchase_count": 18,
+        "avg_purchase_value": 735
+    },
+    {
+        "customer_id": 26,
+        "purchase_count": 10,
+        "avg_purchase_value": 769
+    },
+    {
+        "customer_id": 27,
+        "purchase_count": 19,
+        "avg_purchase_value": 756
+    },
+    {
+        "customer_id": 28,
+        "purchase_count": 19,
+        "avg_purchase_value": 703
+    },
+    {
+        "customer_id": 29,
+        "purchase_count": 5,
+        "avg_purchase_value": 573
+    },
+    {
+        "customer_id": 30,
+        "purchase_count": 9,
+        "avg_purchase_value": 740
+    },
+    {
+        "customer_id": 31,
+        "purchase_count": 1,
+        "avg_purchase_value": 850
+    },
+    {
+        "customer_id": 32,
+        "purchase_count": 2,
+        "avg_purchase_value": 195
+    },
+    {
+        "customer_id": 33,
+        "purchase_count": 16,
+        "avg_purchase_value": 700
+    },
+    {
+        "customer_id": 34,
+        "purchase_count": 8,
+        "avg_purchase_value": 336
+    },
+    {
+        "customer_id": 35,
+        "purchase_count": 1,
+        "avg_purchase_value": 371
+    },
+    {
+        "customer_id": 36,
+        "purchase_count": 7,
+        "avg_purchase_value": 803
+    },
+    {
+        "customer_id": 37,
+        "purchase_count": 5,
+        "avg_purchase_value": 889
+    },
+    {
+        "customer_id": 38,
+        "purchase_count": 3,
+        "avg_purchase_value": 175
+    },
+    {
+        "customer_id": 39,
+        "purchase_count": 16,
+        "avg_purchase_value": 534
+    },
+    {
+        "customer_id": 40,
+        "purchase_count": 5,
+        "avg_purchase_value": 185
+    },
+    {
+        "customer_id": 41,
+        "purchase_count": 14,
+        "avg_purchase_value": 319
+    },
+    {
+        "customer_id": 42,
+        "purchase_count": 5,
+        "avg_purchase_value": 146
+    },
+    {
+        "customer_id": 43,
+        "purchase_count": 17,
+        "avg_purchase_value": 193
+    },
+    {
+        "customer_id": 44,
+        "purchase_count": 14,
+        "avg_purchase_value": 552
+    },
+    {
+        "customer_id": 45,
+        "purchase_count": 12,
+        "avg_purchase_value": 317
+    },
+    {
+        "customer_id": 46,
+        "purchase_count": 16,
+        "avg_purchase_value": 440
+    },
+    {
+        "customer_id": 47,
+        "purchase_count": 7,
+        "avg_purchase_value": 711
+    },
+    {
+        "customer_id": 48,
+        "purchase_count": 1,
+        "avg_purchase_value": 353
+    },
+    {
+        "customer_id": 49,
+        "purchase_count": 5,
+        "avg_purchase_value": 122
+    },
+    {
+        "customer_id": 50,
+        "purchase_count": 10,
+        "avg_purchase_value": 857
+    },
+    {
+        "customer_id": 51,
+        "purchase_count": 5,
+        "avg_purchase_value": 199
+    },
+    {
+        "customer_id": 52,
+        "purchase_count": 2,
+        "avg_purchase_value": 279
+    },
+    {
+        "customer_id": 53,
+        "purchase_count": 10,
+        "avg_purchase_value": 861
+    },
+    {
+        "customer_id": 54,
+        "purchase_count": 19,
+        "avg_purchase_value": 541
+    },
+    {
+        "customer_id": 55,
+        "purchase_count": 1,
+        "avg_purchase_value": 424
+    },
+    {
+        "customer_id": 56,
+        "purchase_count": 13,
+        "avg_purchase_value": 615
+    },
+    {
+        "customer_id": 57,
+        "purchase_count": 16,
+        "avg_purchase_value": 891
+    },
+    {
+        "customer_id": 58,
+        "purchase_count": 16,
+        "avg_purchase_value": 858
+    },
+    {
+        "customer_id": 59,
+        "purchase_count": 2,
+        "avg_purchase_value": 596
+    },
+    {
+        "customer_id": 60,
+        "purchase_count": 12,
+        "avg_purchase_value": 789
+    },
+    {
+        "customer_id": 61,
+        "purchase_count": 3,
+        "avg_purchase_value": 479
+    },
+    {
+        "customer_id": 62,
+        "purchase_count": 1,
+        "avg_purchase_value": 790
+    },
+    {
+        "customer_id": 63,
+        "purchase_count": 11,
+        "avg_purchase_value": 712
+    },
+    {
+        "customer_id": 64,
+        "purchase_count": 12,
+        "avg_purchase_value": 934
+    },
+    {
+        "customer_id": 65,
+        "purchase_count": 1,
+        "avg_purchase_value": 516
+    },
+    {
+        "customer_id": 66,
+        "purchase_count": 8,
+        "avg_purchase_value": 941
+    },
+    {
+        "customer_id": 67,
+        "purchase_count": 11,
+        "avg_purchase_value": 655
+    },
+    {
+        "customer_id": 68,
+        "purchase_count": 13,
+        "avg_purchase_value": 111
+    },
+    {
+        "customer_id": 69,
+        "purchase_count": 14,
+        "avg_purchase_value": 997
+    },
+    {
+        "customer_id": 70,
+        "purchase_count": 19,
+        "avg_purchase_value": 853
+    },
+    {
+        "customer_id": 71,
+        "purchase_count": 3,
+        "avg_purchase_value": 826
+    },
+    {
+        "customer_id": 72,
+        "purchase_count": 17,
+        "avg_purchase_value": 189
+    },
+    {
+        "customer_id": 73,
+        "purchase_count": 8,
+        "avg_purchase_value": 704
+    },
+    {
+        "customer_id": 74,
+        "purchase_count": 10,
+        "avg_purchase_value": 701
+    },
+    {
+        "customer_id": 75,
+        "purchase_count": 2,
+        "avg_purchase_value": 214
+    },
+    {
+        "customer_id": 76,
+        "purchase_count": 9,
+        "avg_purchase_value": 295
+    },
+    {
+        "customer_id": 77,
+        "purchase_count": 18,
+        "avg_purchase_value": 592
+    },
+    {
+        "customer_id": 78,
+        "purchase_count": 11,
+        "avg_purchase_value": 512
+    },
+    {
+        "customer_id": 79,
+        "purchase_count": 4,
+        "avg_purchase_value": 828
+    },
+    {
+        "customer_id": 80,
+        "purchase_count": 4,
+        "avg_purchase_value": 493
+    },
+    {
+        "customer_id": 81,
+        "purchase_count": 5,
+        "avg_purchase_value": 556
+    },
+    {
+        "customer_id": 82,
+        "purchase_count": 3,
+        "avg_purchase_value": 788
+    },
+    {
+        "customer_id": 83,
+        "purchase_count": 3,
+        "avg_purchase_value": 647
+    },
+    {
+        "customer_id": 84,
+        "purchase_count": 18,
+        "avg_purchase_value": 195
+    },
+    {
+        "customer_id": 85,
+        "purchase_count": 5,
+        "avg_purchase_value": 879
+    },
+    {
+        "customer_id": 86,
+        "purchase_count": 17,
+        "avg_purchase_value": 794
+    },
+    {
+        "customer_id": 87,
+        "purchase_count": 13,
+        "avg_purchase_value": 378
+    },
+    {
+        "customer_id": 88,
+        "purchase_count": 3,
+        "avg_purchase_value": 972
+    },
+    {
+        "customer_id": 89,
+        "purchase_count": 17,
+        "avg_purchase_value": 980
+    },
+    {
+        "customer_id": 90,
+        "purchase_count": 16,
+        "avg_purchase_value": 828
+    },
+    {
+        "customer_id": 91,
+        "purchase_count": 13,
+        "avg_purchase_value": 798
+    },
+    {
+        "customer_id": 92,
+        "purchase_count": 19,
+        "avg_purchase_value": 276
+    },
+    {
+        "customer_id": 93,
+        "purchase_count": 4,
+        "avg_purchase_value": 495
+    },
+    {
+        "customer_id": 94,
+        "purchase_count": 9,
+        "avg_purchase_value": 175
+    },
+    {
+        "customer_id": 95,
+        "purchase_count": 9,
+        "avg_purchase_value": 554
+    },
+    {
+        "customer_id": 96,
+        "purchase_count": 14,
+        "avg_purchase_value": 834
+    },
+    {
+        "customer_id": 97,
+        "purchase_count": 19,
+        "avg_purchase_value": 605
+    },
+    {
+        "customer_id": 98,
+        "purchase_count": 15,
+        "avg_purchase_value": 243
+    },
+    {
+        "customer_id": 99,
+        "purchase_count": 5,
+        "avg_purchase_value": 198
+    },
+    {
+        "customer_id": 100,
+        "purchase_count": 12,
+        "avg_purchase_value": 124
+    }
+]
